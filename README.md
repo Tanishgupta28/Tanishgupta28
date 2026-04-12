@@ -4,7 +4,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://tenor.com/bu63A.gif" width="70%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB0OXV3dHExa20wb20weHg1NTN4YXliZmQ0NWJjeDU5cndsN3NrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" />
 </p>
 
 ---
