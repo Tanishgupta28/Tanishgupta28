@@ -64,18 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishgupta28&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishgupta28&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tanish-gupta-4259b7289/
