@@ -4,8 +4,9 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB0OXV3dHExa20wb20weHg1NTN4YXliZmQ0NWJjeDU5cndsN3NrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFkMHR1bTlwczBqMTF0N3E2a2NqMG5tdjk3dmxiaW4wMzdzdXJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif" width="100%" />
 </p>
+
 
 ---
 
