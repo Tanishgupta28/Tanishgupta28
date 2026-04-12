@@ -4,7 +4,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=250&section=header&text=&fontSize=0" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmdHV1d2ZoYnVhcDRyZWh6MDV3ZHF4ZTkwNHUwMWE0a2t5N3R4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TexuKBfvpWjaIuACrz/giphy.gif" width="100%" />
 </p>
 ---
 
