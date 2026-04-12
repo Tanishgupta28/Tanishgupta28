@@ -3,9 +3,7 @@
 <h3 align="center">🚀 ML Enthusiast | App Developer (Learning) | Backend Explorer</h3>
 
 <!-- Typing Effect -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFkMHR1bTlwczBqMTF0N3E2a2NqMG5tdjk3dmxiaW4wMzdzdXJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif" width="100%" />
-</p>
+
 
 
 ---
