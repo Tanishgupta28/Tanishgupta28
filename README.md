@@ -4,12 +4,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Tanish+Gupta;ML+Researcher;App+Dev+Learner;Backend+Explorer" />
-</p>
-
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%" />
 </p>
 
 ---
