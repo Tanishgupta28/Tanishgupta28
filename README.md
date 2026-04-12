@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ML+Researcher;AI+Enthusiast;App+Developer+(Learning);Backend+Explorer;Building+Real+World+AI+Projects&center=true&width=500&height=50">
-</p>
 <h3 align="center">🚀 ML Enthusiast | App Developer (Learning) | Backend Explorer</h3>
 
 <p align="center">
