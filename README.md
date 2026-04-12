@@ -4,8 +4,9 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://tenor.com/bu63A.gif" width="70%" style="border-radius: 10px;" />
+  <img src="https://tenor.com/bu63A.gif" width="70%" />
 </p>
+
 ---
 
 ## 🧠 About Me
