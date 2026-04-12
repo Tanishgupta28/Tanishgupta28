@@ -3,7 +3,7 @@
 <h3 align="center">🚀 ML Enthusiast | App Developer (Learning) | Backend Explorer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tanish%20Gupta&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Tanish%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20%7C%20App%20Dev%20Learner%20%7C%20Backend%20Explorer&descSize=18&descAlignY=70" />
 </p>
 
 ---
