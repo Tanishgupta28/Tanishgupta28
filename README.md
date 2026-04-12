@@ -4,9 +4,8 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
-
 ---
 
 ## 🧠 About Me
