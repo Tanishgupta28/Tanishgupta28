@@ -2,7 +2,7 @@
 
 <h3 align="center"> ML Enthusiast | App Developer (Learning) | Backend Explorer</h3>
 
-<!-- Typing Effect -->
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503)
 
 
 
