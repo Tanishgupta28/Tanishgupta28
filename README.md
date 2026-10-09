@@ -1,78 +1,86 @@
-<h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
 
-<h3 align="center"> ML Enthusiast | App Developer (Learning) | Backend Explorer</h3>
+<h1 align="center">Hey, I'm Tanish Gupta</h1>
 
-![ezgif com-resize (1)](https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503)
+<p align="center">
+  Computer Science Undergraduate at Thapar University
+  <br>
+  C++ | Software Development | Machine Learning
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-gupta-4259b7289/">LinkedIn</a> •
+  <a href="mailto:tgupta_be23@thapar.edu">Email</a> •
+  <a href="https://github.com/Tanishgupta28">GitHub</a>
+</p>
 
-
----
-
-## About Me
-
--  CSE @ Thapar Institute of Engineering and Technology (CGPA: 9.1)
--  ML Research Intern working on **Lightweight Transformers (Light SAKT)**
--  Strong in **Machine Learning, Deep Learning & AI Systems**
--  Currently learning **App Development & Backend**
--  Building impactful AI projects for real-world problems
-
----
-
-##  Tech Stack
-
-###  Languages
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=mysql)
-
-###  Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-yellow?style=for-the-badge&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras)
-
-###  Data & NLP
-![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
-![HuggingFace](https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface)
-
-###  Tools & Tech
-![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
-
-###  Currently Learning
-![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
-![NodeJS](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503" alt="Animation" width="600"/>
+</p>
 
 ---
 
-##  Projects
+### About Me
 
-###  AI Ventilator Monitoring System
-- Real-time patient monitoring using AI
-- Reduced response time by **30%**
+I'm a final-year Computer Science student at **Thapar Institute of Engineering & Technology**, with a CGPA of 9.0.
 
-###  Light SAKT (Knowledge Tracing)
-- Lightweight Transformer outperforming 5+ models
-- Predicts student learning gaps
+My interests lie in software development, backend systems, and machine learning. I enjoy solving problems in C++ and understanding how things work under the hood.
 
-###  Apple Disease Detector
-- CNN + ANN model with **95% accuracy**
-- Used YOLO, ResNet50 & feature extraction techniques
+- Currently working on efficient **Transformer-based Knowledge Tracing** models.
+- Building projects involving **C++, multithreading, networking, and AI**.
+- Exploring backend development and system design.
+- Interested in software engineering roles where I can keep learning and building.
+
+### Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Machine Learning & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-##  Connect With Me
+### Some Projects I've Worked On
 
--  LinkedIn: https://www.linkedin.com/in/tanish-gupta-4259b7289/
--  GitHub: https://github.com/Tanishgupta28
--  Email: tgupta_be23@thapar.edu
+**[Multithreaded HTTP Server](https://github.com/Tanishgupta28/cpp-multithreaded-http-server)**  
+Built an HTTP server in C++ using POSIX sockets, a thread pool, and synchronization mechanisms to handle concurrent client requests.
+
+**HiTSKT — Knowledge Tracing with Linear Attention**  
+Exploring efficient attention mechanisms for predicting student performance from interaction histories. Working with PyTorch and benchmarking against existing knowledge tracing models.
+
+**AI Ventilator Monitoring System**  
+Developed a computer vision-based communication interface using eye tracking, along with patient monitoring and automated alerts.
+
+**LightSAKT — Lightweight Knowledge Tracing**  
+Research work focused on efficient Transformer architectures for modeling student learning sequences.
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishgupta28&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishgupta28&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
 <p align="center">
-   "Building intelligent systems today, learning scalable systems for tomorrow."
+  <i>Always learning, building, and figuring things out.</i>
 </p>
