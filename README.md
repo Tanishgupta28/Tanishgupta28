@@ -13,9 +13,11 @@
   <a href="https://github.com/Tanishgupta28">GitHub</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503" alt="Animation" width="600"/>
-</p>
+</p> -->
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503)
+
 
 ---
 
