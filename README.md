@@ -58,7 +58,7 @@ My interests lie in software development, backend systems, and machine learning.
 
 ### Some Projects I've Worked On
 
-**[Multithreaded HTTP Server](https://github.com/Tanishgupta28/cpp-multithreaded-http-server)**  
+**Multithreaded HTTP Server**  
 Built an HTTP server in C++ using POSIX sockets, a thread pool, and synchronization mechanisms to handle concurrent client requests.
 
 **HiTSKT — Knowledge Tracing with Linear Attention**  
