@@ -1,23 +1,21 @@
+<div align="center">
 
-<h1 align="center">Hey, I'm Tanish Gupta</h1>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:1E2A78,100:6366F1&text=Tanish%20Gupta&fontColor=F8FAFC&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20Thapar%20University&descAlignY=62&descSize=18"
+    width="100%"
+    alt="header"
+  />
 
-<p align="center">
-  Computer Science Undergraduate at Thapar University
-  <br>
-  C++ | Software Development | Machine Learning
-</p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1000&color=A5B4FC&center=true&vCenter=true&width=700&lines=Backend+Systems+%26+Multithreading;Machine+Learning+%26+Deep+Learning;C%2B%2B+%7C+DSA+%7C+Software+Development"
+    alt="Typing SVG"
+  />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanish-gupta-4259b7289/">LinkedIn</a> •
-  <a href="mailto:tgupta_be23@thapar.edu">Email</a> •
-  <a href="https://github.com/Tanishgupta28">GitHub</a>
-</p>
+  <br/>
 
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503" alt="Animation" width="600"/>
-</p> -->
-![ezgif com-resize (1)](https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503)
+  ![ezgif com-resize (1)](https://github.com/user-attachments/assets/1f46862f-9db3-44c0-9017-cd746de50503)
 
+</div>
 
 ---
 
